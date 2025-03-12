@@ -1,12 +1,13 @@
 <div align="center">
 <img src="asset/klee.jpg" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+human;I'm+KieuVuAnh%2C+love+playing+games%2C+love+making+games" width="70%" />
-<br><br>  
+<br>
+        <img src="asset/Kuru Herta GIF.gif" height="50" />
 <pre>
-    💻 Unity Dev (May be :3) 🥳
+    💻 Unity Dev (May be :3) 🥳 
     📖 Bachelor of Information Technology 🥳
     🎮 Games • Anime • Code 🥳
-<br><br>
+<br>
 <img src="asset/Tired Welsh Corgi GIF by Lazy Corgi.gif" height="150" />
 </pre>
 </div>
