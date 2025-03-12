@@ -21,10 +21,8 @@
 
 <img src="asset/Tired Welsh Corgi GIF by Lazy Corgi.gif" height="60" />
 </pre>
-<br><br><br>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Vuanh.Technic/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:real.kva.vn@gmail.com) 
-<br><br>
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Vuanh.Technic/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:real.kva.vn@gmail.com) 
 </div>
 
 <picture>
