@@ -20,10 +20,10 @@
     💻 Unity Dev (May be :3) 🥳
     📖 Bachelor of Information Technology 🥳
     🎮 Games • Anime • Code 🥳
+
+<img src="asset/Tired Welsh Corgi GIF by Lazy Corgi.gif" height="60" />
 </pre>
 <br><br>
-<img src="asset/Tired Welsh Corgi GIF by Lazy Corgi.gif" height="100" />
-<br><br><br>
 </div>
 
 <picture>
