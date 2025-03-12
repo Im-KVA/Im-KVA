@@ -1,7 +1,12 @@
 # 💫 I'm KieuVuAnh :3
-| |/ / | | | | | | ()
-| ' / ___ | || | | | _ ___ | < / _ | | |/ / | / | | . | /| || <| || _
-||_\| _|_|_\||/
+```
+  _  ___             __      __                     _     
+ | |/ (_)            \ \    / /         /\         | |    
+ | ' / _  ___ _   _   \ \  / /   _     /  \   _ __ | |__  
+ |  < | |/ _ \ | | |   \ \/ / | | |   / /\ \ | '_ \| '_ \ 
+ | . \| |  __/ |_| |    \  /| |_| |  / ____ \| | | | | | |
+ |_|\_\_|\___|\__,_|     \/  \__,_| /_/    \_\_| |_|_| |_|                                                                                                         
+```
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Vuanh.Technic/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:real.kva.vn@gmail.com) 
 
