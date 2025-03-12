@@ -11,7 +11,7 @@
 
 <img src="asset/Tired Welsh Corgi GIF by Lazy Corgi.gif" height="150" />
 </pre>
-<br><br>
+<br>
 </div>
 
 ## ✨ Tech Stack:
