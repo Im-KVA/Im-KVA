@@ -10,7 +10,7 @@
 ```                                                                                                    
 <div align="center">
 <img src="asset/Character_The_Herta_Portrait.png" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=2000&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Hello+human;I'm+Kieu+Vu+Anh%2C+love+playing+game%2C+love+making+game" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=2000&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Hello+human;I'm+Kieu+Vu+Anh%2C+love+playing+games%2C+love+making+games" width="70%" />
   
 <pre>
     💻 Unity Dev (May be :3) 🥳
