@@ -2,7 +2,7 @@
 <img src="asset/klee.jpg" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+human" width="70%" />
 
-<img src="(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnI1YzBrbmoyajFmMmRnZXE5a3AwaTlwZWdpaG8yYm14bGNhcTE0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9VJILDE3Di90qDGLSv/giphy.gif)" height="150" />
+<img src="asset/Puppy Hello Sticker by Lazy Corgi.gif" height="150" />
 </div>
 
 ## ✨ Tech Stack:
